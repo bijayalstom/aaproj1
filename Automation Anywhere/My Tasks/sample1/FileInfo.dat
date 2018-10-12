@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="task1.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">Locked</Property>
+      <Property Name="LastRunTime">09/26/2018 14:21:17</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="task2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/08/2018 10:00:18</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="crm_entry.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/02/2018 16:02:52</Property>
+      <Property Name="RunDuration">00:00:40</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="crm.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/02/2018 17:00:58</Property>
+      <Property Name="RunDuration">00:00:54</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="test_javascript.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/10/2018 16:51:13</Property>
+      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="test5.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/10/2018 14:58:14</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="test6.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/10/2018 15:20:54</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
